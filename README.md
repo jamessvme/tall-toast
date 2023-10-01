@@ -16,7 +16,7 @@ Runs with the TALL stack: [Laravel](https://laravel.com/docs/10.x/installation),
 [![Codacy branch grade](https://img.shields.io/codacy/grade/0c6b4f96ac2a4a6cbf265f5e825a3fd2/main?style=plastic)](https://www.codacy.com/gh/usernotnull/tall-toasts/dashboard?utm_source=github.com&utm_medium=referral&utm_content=usernotnull/tall-toasts&utm_campaign=Badge_Grade)  
 [![Codecov branch](https://img.shields.io/codecov/c/github/usernotnull/tall-toasts/main?style=plastic)](https://app.codecov.io/gh/usernotnull/tall-toasts)
 
-Light | Dark
+Light 
 ------------ | -------------
 ![toast-light](/.github/images/light.gif) | ![toast-dark](/.github/images/dark.gif)
 
